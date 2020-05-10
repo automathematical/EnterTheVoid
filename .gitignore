@@ -1,0 +1,6 @@
+All files what will not be uploaded to the gitrepo
+.env
+.rhl
+.3dmbak
+.vs/
+.suo

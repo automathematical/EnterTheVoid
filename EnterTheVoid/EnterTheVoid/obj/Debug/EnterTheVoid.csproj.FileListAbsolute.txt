@@ -1,0 +1,8 @@
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\bin\EnterTheVoid.dll
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\bin\EnterTheVoid.pdb
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\obj\Debug\EnterTheVoid.csprojAssemblyReference.cache
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\obj\Debug\EnterTheVoid.csproj.CoreCompileInputs.cache
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\obj\Debug\EnterTheVoid.dll
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\obj\Debug\EnterTheVoid.pdb
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\obj\Debug\EnterTheVoid.Properties.Resources.resources
+C:\GitHub\COO3\EnterTheVoid\EnterTheVoid\obj\Debug\EnterTheVoid.csproj.GenerateResource.cache
