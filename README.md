@@ -1,9 +1,9 @@
 # Enter The Void 	:thread:
-## Digitale ontwerptechnieken 3
+## Digitale ontwerptechnieken 3 / Digital Design Techniques 3
 Masters year 2020 - Ghent University project - Digital Design Techniques 3. <br/>
 Creative coding project including the development for a Grasshopper plugin or Grasshopper Assembly file
 
-Website: [Enter The Void](https://automathematically.github.io/EnterTheVoid/)
+**For more information check out the website and** [Enter The Void](https://automathematically.github.io/EnterTheVoid/) 	:hole: :see_no_evil:	:speak_no_evil:	:hear_no_evil:	
 
 ## How to get started
 This project is built using [visual studio](https://visualstudio.microsoft.com/vs/), so you'll need to install it first
